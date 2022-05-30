@@ -1,1 +1,2 @@
 # Business_Listing_Bellevue
+COVID-19 has changed the world significantly. Record numbers of position openings and people quiting their jobs ofthe hit news headlines. I was told about an observation that there are much more small companies close to residential area, where I live. So, I want to verify this using Business Listing dataset from City of Bellevue [here](https://data.bellevuewa.gov/datasets/cobgis::business-listing/about), as well as uncover insights about changes in businesses in Bellevue, WA.
